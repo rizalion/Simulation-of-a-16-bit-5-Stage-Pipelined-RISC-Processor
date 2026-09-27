@@ -49,5 +49,3 @@ SUB R4, R2, R1   # expect 5
 ## Results
 ![Simulation transcript](docs/simulation_transcript.png)
 ![Waveform](docs/waveform.png)
-
-Full write-up: [docs/CA_Project_Report.docx](docs/CA_Project_Report.docx)
